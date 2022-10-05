@@ -1,2 +1,2 @@
 #!/bin/bash
-dirname ./0-current_working_directory
+realpath $(pwd)
